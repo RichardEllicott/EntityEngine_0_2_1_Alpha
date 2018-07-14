@@ -1,0 +1,46 @@
+name=cardinputdict;
+keytest=;;
+
+name=Xeon 457;
+type=location card;
+subtype=planet;
+description=Mostly empty sector;;
+
+name=diplomacy;
+type=rule;
+subtype=player stat;
+description= positive diplomacy is the result of positive actions like cooperation, negative diplomacy is the result of negative actions like enslavement;;
+
+
+name=ex-proto439 class destroyer;
+type=ship card;
+subtype=mid-sized capital class prototype;
+description=even mid sized capital ships of the fleet are often so expensive to build that prototye vessels are commonly rolled into battle;
+cost=3;
+weapons=2x Type4 Plasma Battery;
+equipment=jump drive, cargo hold;;
+
+name=proteus dreadnaught;
+type=ship card;
+subtype=small-sized capital;
+description=The smallest type of capital class, designed with less shielding and a higher gun to weight ratio than some other more multi functional ships of the fleet;
+cost=2;
+weapons=1 Type3.9 Augmented Plasma Battery;
+equipment=jump drive, cargo hold;;
+
+
+name=GX4 newton geo-survey science vessel;
+type=ship card;
+subtype=geo class science vessel;
+description=;
+cost=1;
+rule=+1 productivity if positioned over resources;
+equipment=jump drive;;
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+space game:
+
+6x capital
+6X squadrom 12
+4x science 16
+8x event 24
+8x upgrade 32
+4x race (only human ships) 36
+5x5x world 25
+
+61
+
+domination victory (homeworld or majority)
+
+
+capitals
+science vessels
+recon vessels?
+fighter squadrons
+
+
+science vessel bonus:
+geo +1 productivity
+web, all ships in webbed square cannot jump while in square
+temporal
+
+
+dungeon game:
+

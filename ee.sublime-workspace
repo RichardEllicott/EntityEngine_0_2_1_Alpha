@@ -1,0 +1,1293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"ang",
+				"angles"
+			],
+			[
+				"tot",
+				"total_ang"
+			],
+			[
+				"pol",
+				"polygon_points"
+			],
+			[
+				"table",
+				"table_hole_test"
+			],
+			[
+				"test",
+				"test_huge_table"
+			],
+			[
+				"tes",
+				"test_huge_table"
+			],
+			[
+				"ell",
+				"ellipse_points"
+			],
+			[
+				"phys",
+				"physics"
+			],
+			[
+				"en",
+				"engine"
+			],
+			[
+				"el",
+				"elseif"
+			],
+			[
+				"deb",
+				"debug_spawn_from_cursor"
+			],
+			[
+				"grid",
+				"grid_spacing"
+			],
+			[
+				"init",
+				"initialize_physics"
+			],
+			[
+				"setFix",
+				"setFixtureGroupIndex"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"width2"
+			],
+			[
+				"clas",
+				"class1"
+			],
+			[
+				"cla",
+				"class2"
+			],
+			[
+				"mous",
+				"mouse_world_x"
+			],
+			[
+				"gri",
+				"grid_spacing"
+			],
+			[
+				"zo",
+				"zoom_center_x"
+			],
+			[
+				"zoom",
+				"zoom_center_y"
+			],
+			[
+				"zoo",
+				"zoom_center_y"
+			],
+			[
+				"mou",
+				"mouse_world_y"
+			],
+			[
+				"po",
+				"poly_reduce1"
+			],
+			[
+				"remo",
+				"remove_count"
+			],
+			[
+				"re",
+				"reduced_example_polygon"
+			],
+			[
+				"poly",
+				"polygon"
+			],
+			[
+				"angle",
+				"angle1"
+			],
+			[
+				"get",
+				"get_vertex"
+			],
+			[
+				"new",
+				"new_poly"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"ve",
+				"vertex_importances"
+			],
+			[
+				"vert",
+				"vertex_importance"
+			],
+			[
+				"an",
+				"angle_difference_from_180"
+			],
+			[
+				"angl",
+				"angle2"
+			],
+			[
+				"cu",
+				"current_delay"
+			],
+			[
+				"li",
+				"LightningAnimation"
+			],
+			[
+				"back",
+				"background_animations"
+			],
+			[
+				"tri",
+				"trippy_sequence_draw_test"
+			],
+			[
+				"num",
+				"numv"
+			],
+			[
+				"dav",
+				"david_points1"
+			],
+			[
+				"weav",
+				"weave_pattern"
+			],
+			[
+				"point",
+				"points"
+			],
+			[
+				"poi",
+				"points"
+			],
+			[
+				"col",
+				"color_pos"
+			],
+			[
+				"scre",
+				"screen_y"
+			],
+			[
+				"scree",
+				"screen_x"
+			],
+			[
+				"scer",
+				"screen_y"
+			],
+			[
+				"is",
+				"isometric_ratio"
+			],
+			[
+				"sc",
+				"screen_x"
+			],
+			[
+				"sep",
+				"sephroth_pos"
+			],
+			[
+				"load",
+				"load_schemes"
+			],
+			[
+				"loa",
+				"load_schemes"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"get_s",
+				"get_spirograph_ellipse_points"
+			],
+			[
+				"Ani",
+				"AnimationType2Teleport"
+			],
+			[
+				"draw",
+				"draw2"
+			],
+			[
+				"physics",
+				"physics_object"
+			],
+			[
+				"det",
+				"destroy_on_contact"
+			],
+			[
+				"missi",
+				"missile_spawn_test"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"miss",
+				"missile_spawn_test"
+			],
+			[
+				"contoll",
+				"controlled_unit"
+			],
+			[
+				"line",
+				"line_count"
+			],
+			[
+				"points",
+				"points"
+			],
+			[
+				"cos",
+				"cos_pos"
+			],
+			[
+				"sin",
+				"sin_pos"
+			],
+			[
+				"at",
+				"actual_pos"
+			],
+			[
+				"act",
+				"actual_pos"
+			],
+			[
+				"TEST",
+				"TESTCODE_zoom_to_center"
+			],
+			[
+				"TES",
+				"TESTCODE_zoom_to_center"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"draw_tra",
+				"draw_trail_alpha"
+			],
+			[
+				"str",
+				"string_to_count\tstatement"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"ver",
+				"vertex_importance"
+			],
+			[
+				"exam",
+				"example_polygon"
+			],
+			[
+				"pr",
+				"print_my_property\tfunction"
+			],
+			[
+				"rand",
+				"random_delay"
+			],
+			[
+				"upd",
+				"update_positions"
+			],
+			[
+				"x",
+				"x_acceleration"
+			],
+			[
+				"gra",
+				"graphics"
+			],
+			[
+				"cam",
+				"Camera"
+			],
+			[
+				"trail",
+				"draw_trail_pass"
+			],
+			[
+				"t",
+				"turtle"
+			],
+			[
+				"_draw",
+				"_draw_background"
+			],
+			[
+				"mouse",
+				"mouse_world_y"
+			],
+			[
+				"cur",
+				"cursor_grid_y"
+			],
+			[
+				"mouse_gr",
+				"mouse_grid_y"
+			],
+			[
+				"mouse_world",
+				"mouse_world_y"
+			],
+			[
+				"mouse_worl",
+				"mouse_world_x"
+			],
+			[
+				"camr",
+				"camera_zoom_in"
+			],
+			[
+				"worl",
+				"world_y"
+			],
+			[
+				"colo",
+				"color_cycle"
+			],
+			[
+				"image",
+				"image_draw"
+			],
+			[
+				"polo",
+				"polygon_points"
+			],
+			[
+				"set",
+				"setColor"
+			],
+			[
+				"app",
+				"apply_graphics_translations"
+			],
+			[
+				"ro",
+				"rotation"
+			],
+			[
+				"macro",
+				"macroSetFixture"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"fixture",
+				"fixtures"
+			],
+			[
+				"sv",
+				"save_file"
+			],
+			[
+				"sh",
+				"shape_functions"
+			],
+			[
+				"sa",
+				"save_json_file"
+			],
+			[
+				"body",
+				"body_functions"
+			],
+			[
+				"fix",
+				"fixture_functions"
+			],
+			[
+				"start",
+				"start9"
+			],
+			[
+				"run",
+				"runtime8"
+			],
+			[
+				"tabe",
+				"table4"
+			],
+			[
+				"star",
+				"start6"
+			],
+			[
+				"time",
+				"timer"
+			],
+			[
+				"my",
+				"mydata"
+			],
+			[
+				"func",
+				"func_example"
+			],
+			[
+				"fall",
+				"fallback_example"
+			],
+			[
+				"tile",
+				"tileset"
+			],
+			[
+				"wor",
+				"world_x"
+			],
+			[
+				"recta",
+				"love.graphics.rectangle"
+			],
+			[
+				"fun",
+				"function2"
+			],
+			[
+				"gr",
+				"draw_grid"
+			],
+			[
+				"raw",
+				"rawget"
+			],
+			[
+				"save",
+				"save_to_file"
+			],
+			[
+				"ar",
+				"array2"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"array",
+				"array1"
+			],
+			[
+				"arra",
+				"array2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 23537,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ee_engine.lua",
+			"settings":
+			{
+				"buffer_size": 22698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ee_entity.lua",
+			"settings":
+			{
+				"buffer_size": 30007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ee_redruth_library_shapes.lua",
+			"settings":
+			{
+				"buffer_size": 11472,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/User/love_custom.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/love_custom.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/love_custom.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/love_custom.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/MagicPython/settings/sublime/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/MagicPython/settings/sublime/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/MagicPython/settings/sublime/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/bash_custom.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/bash_custom.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 329.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"markdown",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lua",
+				"LuaFormat: Settings"
+			],
+			[
+				"enea",
+				"Package Control: Enable Package"
+			],
+			[
+				"lua ",
+				"LuaFormat: Settings"
+			],
+			[
+				"lua fo",
+				"LuaFormat: Settings"
+			],
+			[
+				"the",
+				"UI: Select Color Scheme"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"eneab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"box",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"set syntax lu",
+				"Set Syntax: Lua (Love)"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/physics_funtions.json",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/EE.sublime-workspace",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_shapes.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/open my project in sublime.command",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/tricky sublime test.command",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/main.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/ee_engine.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/gamera.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/ee_entity.lua",
+		"/Applications/Games/spectrum/twinlight/TZX-TURBO/!readme",
+		"/Users/rich/Documents/GitHub/box2dhelper/main.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_math.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_table.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_OLD.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/EntityEngine_0_2_0_Alpha_CreateLoveFile.command",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/polygon-master/polygon.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork/love2d/EntityEngine_0_2_1_Alpha/ee_event.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/main.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_OLD.lua",
+		"/Users/rich/Library/Mobile Documents/com~apple~CloudDocs/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_math.lua",
+		"/Users/rich/Desktop/backup apocalypse 2018/backup_apoc_2018_notes.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_entity.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/TODO.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_engine.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon-master/polygon.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_shapes.lua",
+		"/Volumes/64GB/backup apocalypse 2018/backup_apoc_2018_notes.md",
+		"/Users/rich/Music/ffmpeg_audio_extract.sh",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon-master/main.lua",
+		"/Volumes/64GB/backup_apoc_2018_notes.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/examples_and_tests/SCRATCH CODE TESTS/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_animations.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon-master/main copy.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon-master/README.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon_reduction_problem_delete when done/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon_reduction_problem_delete when done/45342-polygon-simplification.m",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon-master/MY WORKING NOTES********.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_math.lua",
+		"/Users/rich/Documents/GitHub/LSTMetallica/drum_note_processor.py",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ignoreCollision.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/middleclass_test/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon_reduction_problem_delete when done/research notes.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_shapes_polgonreduce.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon_reduction_problem_delete when done/45342-polygon-simplification_MYEDIT.m",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_maps.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_OLD.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/test_command.command",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/reflection/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/debug/filename.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/LUA CORRECTIONS.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/middleclass.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon_reduction_problem_delete when done/45342-polygon-simplification_MYEDIT.mat",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/polygon_reduction_problem_delete when done/45342-polygon-simplification.m.hpp",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_sharedclass.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_redruth_library_colors.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/ee_event.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_1_0/ee_action.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_1_0/ee_sharedclass.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/Distribution Notes.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_1_Alpha/readme.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/love_physics_as_objects/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/GameObjectSystem/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/SocialMediaStrategy/CurrentDevToolsList.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/SocialMediaStrategy/PostedRepliesThatSoundedGood.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/SocialMediaStrategy/remarks about muslims.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_0_Alpha/TODO.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_0_Alpha/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/love2d/EntityEngine_0_2_0_Alpha/ee_engine.lua",
+		"/Users/rich/Downloads/oldprint.py",
+		"/Users/rich/Library/Mobile Documents/iCloud/SocialMediaStrategy/SocialMediaStrategy.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/TODO.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/readme.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/prototype_plans.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/polygon_reduction_problem_delete when done/45342-polygon-simplification.mat",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/EntityEngine_0_2_0_Alpha_CreateLoveFile.command",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/polygon_reduction_problem_delete when done/example_code.mat",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/polygon_reduction_problem_delete when done/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/.gitignore",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/Distribution Notes.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/SocialMediaStrategy/TopGamesEver.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_redruth_library_turtle.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/WARNING_BUGS.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_engine.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_animations.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/polygon-master/polygon.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_entity.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_redruth_library_OLD.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_redruth_library_shapes.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/polygon_reduction_problem_delete when done/EntityEngine_0_2_0_Alpha_CreateLoveFile.command",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha_CreateLoveFile.command",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/ExtractMovieAudioWithFFMPEG.command",
+		"/Users/rich/Library/Mobile Documents/iCloud/UploadFTP.command",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/polygon-master/main.lua",
+		"/Users/rich/Downloads/plotsimple.py",
+		"/Users/rich/Downloads/example_for_python.py",
+		"/Users/rich/Downloads/test.py",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork2/shroomery_python_lib/shroomery_encrypt.py",
+		"/Users/rich/Downloads/class_example.py",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_redruth_library.lua",
+		"/Users/rich/Downloads/helpwoman.py",
+		"/Users/rich/Documents/GitHub/hump/camera.lua",
+		"/Users/rich/Documents/GitHub/gamera/gamera.lua",
+		"/Users/rich/Downloads/helpforum/main.lua",
+		"/Users/rich/Downloads/helpforum/push.lua",
+		"/Users/rich/Downloads/Object freezes when stops love forum/mine/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/solution to manual physics friction/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/polygon_reduction_problem_delete when done/empty.mat",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/polygon_reduction_problem_delete when done/empty.md",
+		"/Users/rich/Documents/GitHub/luasec.wiki/Home.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_redruth_library_maps.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/leave trail demo DELETE AFTER DONE/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/scratch_data.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_1_0/my_investigations/intergrated_tech_tidyup20171216/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_1_0/my_investigations/leaving_a_trail_shader/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_1_0/my_investigations/leaving_a_trail_shader/main copy 2_from grump.lua",
+		"/Users/rich/Downloads/ExtractMovieAudioWithFFMPEG.py",
+		"/Users/rich/Downloads/love demos/particles/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_1_0/my_investigations/intergrated_tech_tidyup20171216/my_turtle.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/Method-Draw/readme.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_redruth_library_colors.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/examples_and_tests/SCRATCH CODE TESTS/main.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/ee_redruth_library_math.lua",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/gamera/README.md",
+		"/Users/rich/Library/Mobile Documents/iCloud/ProgrammingWork/love2d/EntityEngine_0_2_0_Alpha/hump/camera.lua"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ee_engine.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ee_entity.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ee_redruth_library_shapes.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

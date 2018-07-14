@@ -1,0 +1,360 @@
+Ship List
+This table displays the basic information of all ships within X3 Terran Conflict 2.7.1
+List of Argon Ships:X3-Terran Conflict
+List of Boron Ships:X3-Terran Conflict
+
+All Ships
+Name	Race	Class	max Shield Strength	Turrets	Weapon Generator	Shield Generator	max Speed	max Cargo	Cargo Class	Hangar	Price*
+Colossus	Argon	M1	3 x 2GJ	6	53,200	8,200	79.10	8,800	XL	60	67,823,098
+Colossus Hauler	Argon	M1	6 x 1GJ	6	53,200	4,100	79.10	8,800	XL	60	0
+Titan (ship)	Argon	M2	4 x 2GJ	6	276,400	14,400	49.00	10,000	XL		69,283,911
+Nova	Argon	M3	3 x 25MJ	1	5,600	750	150.00	236	L		2,420,118
+Nova Prototype	Argon	M3	4 x 25MJ	1	6,720	825	187.50	236	L		0
+Nova Raider	Argon	M3	3 x 25MJ	1	5,600	825	190.50	216	L		2,420,118
+Nova Sentinel	Argon	M3	3 x 25MJ	1	5,600	825	123.00	214	L		3,066,889
+Nova Vanguard	Argon	M3	3 x 25MJ	1	6,720	825	165.00	224	L		2,820,656
+Eclipse	Argon	M3+	1 x 200MJ	2	8,000	1,250	130.00	320	L		6,044,362
+Eclipse Prototype	Argon	M3+	5 x 25MJ	2	8,500	1,500	120.00	350	L		0
+Buster	Argon	M4	3 x 5MJ		2,050	250	175.80	108	M		916,944
+Buster Raider	Argon	M4	2 x 5MJ		2,050	275	223.30	97	M		1,099,183
+Buster Sentinel	Argon	M4	4 x 5MJ		2,050	275	144.20	97	M		0
+Buster Vanguard	Argon	M4	3 x 5MJ		2,460	275	193.40	102	M		1,018,414
+Elite	Argon	M4+	2 x 25MJ	1	4,500	550	160.00	120	L		1,619,083
+Elite Enhanced	Argon	M4+	2 x 25MJ	1	4,500	560	201.60	110	M		0
+Arrow	Argon	M5	2 x 1MJ		10,000	1,000	1320.00	35	S		0
+Discoverer	Argon	M5	3 x 1MJ		1,000	100	346.10	50	M		88,041
+Discoverer Advanced	Argon	M5	4 x 1MJ		1,200	150	437.50	67	M		0
+Discoverer Hauler	Argon	M5	3 x 1MJ		1,000	100	363.40	67	M		93,447
+Discoverer Raider	Argon	M5	3 x 1MJ		1,000	110	439.60	45	M		130,753
+Discoverer Vanguard	Argon	M5	3 x 1MJ		1,200	110	380.70	47	M		101,518
+Starburst	Argon	M5	2 x 1MJ		10,000	50	1140.00	35	S		0
+Centaur	Argon	M6	3 x 200MJ	3	10,500	2,500	123.00	1,250	XL		9,842,368
+Heavy Centaur	Argon	M6+	4 x 200MJ	3	14,500	2,800	115.00	975	XL		14,377,642
+Heavy Centaur Prototype	Argon	M6+	4 x 200MJ	3	16,500	2,900	154.00	690	XL		0
+Cerberus	Argon	M7	3 x 1GJ	5	63,000	5,500	101.70	3,500	XL	6	36,098,766
+Griffon	Argon	M7	3 x 1GJ	4	63,000	5,500	101.70	3,500	XL	9	0
+Minotaur	Argon	M7m	3 x 1GJ	3	50,500	14,400	69.90	8,000	XL		50,333,548
+Gladiator	Argon	M8	5 x 25MJ	2	1,000	1,200	125.00	750	L		5,409,482
+Mammoth	Argon	TL	5 x 200MJ	4	17,100	3,300	87.50	60,000	ST	5	28,506,608
+Magnetar	Argon	TM	2 x 200MJ	2	850	1,000	110.00	1,500	XL	4	438,338
+Express	Argon	TP	3 x 25MJ	1	450	600	150.00	750	M		665,772
+Express Advanced	Argon	TP	4 x 25MJ	1	450	660	170.00	950	L		0
+Express Hauler	Argon	TP	3 x 25MJ	1	450	600	165.00	862	L		0
+Mercury(ship)	Argon	TS	3 x 25MJ	1	850	600	100.00	4,000	XL		451,347
+Mercury Enhanced	Argon	TS	5 x 25MJ	1	850	660	110.00	5,000	XL		0
+Mercury Hauler	Argon	TS	4 x 25MJ	1	850	600	80.00	8,000	XL		866,631
+Mercury Prototype	Argon	TS	4 x 25MJ	1	850	660	120.00	5,000	XL		0
+Mercury Super Freighter 1	Argon	TS	5 x 25MJ	1	850	660	77.00	7,400	XL		952,331
+Mercury Super Freighter 2	Argon	TS	5 x 25MJ	1	850	660	72.00	11,800	XL		1,752,841
+Mercury Tanker 1	Argon	TS	3 x 25MJ	1	850	600	100.00	4,000	XL		451,347
+Mercury Tanker 2	Argon	TS	5 x 25MJ	1	850	600	65.00	7,600	XL		952,331
+Odin	ATF	M1	5 x 2GJ	6	105,000	8,500	85.00	12,500	ST	44	0
+Woden	ATF	M1	6 x 2GJ	6	107,000	9,000	90.00	12,000	XL	30	0
+Tyr	ATF	M2	6 x 2GJ	6	450,000	15,000	64.00	8,000	XL		0
+Valhalla	ATF	M2	7 x 2GJ	6	500,000	18,000	30.00	12,500	XL	60	0
+Thor	ATF	M3	5 x 25MJ	1	9,000	1,050	234.00	190	L		0
+Fenrir	ATF	M3+	6 x 25MJ	2	9,000	1,100	202.00	500	L		0
+Mjolnir	ATF	M4	5 x 5MJ		2,750	350	275.00	300	M		0
+Valkyrie	ATF	M5	5 x 1MJ		1,600	140	540.70	140	M		0
+Vali	ATF	M6+	6 x 200MJ	3	19,500	4,000	110.00	850	L		0
+Vidar	ATF	M6	5 x 200MJ	2	19,000	3,800	128.00	950	L		0
+Aegir	ATF	M7	5 x 1GJ	5	71,900	12,500	132.00	9,500	XL		0
+Skirnir	ATF	M7	4 x 2GJ	3	71,900	12,500	91.00	9,500	XL		0
+Ranger	Goner	GO	1 x 200MJ		0	104	84.10	430	L		0
+Aran	Goner	M1	6 x 2GJ	3	38,500	34,200	12.10	120,000	XL	30	0
+Mobile Repair Ship	Goner	M1	6 x 2GJ	3	38,500	34,200	12.10	120,000	XL	30	0
+Truelight Seeker	Goner	M6	2 x 200MJ		10,000	250	138.00	1,250	XL		0
+Ozias	Goner	TL	8 x 200MJ		0	3,200	112.60	52,500	ST	12	0
+Boreas	OTAS	M2	5 x 2GJ	6	310,000	15,840	63.00	8,500	XL		91,097,441
+Venti	OTAS	M3	4 x 25MJ	1	5,600	825	195.00	200	L		0
+Notus Hauler	OTAS	M3+	5 x 25MJ	2	8,000	1,100	169.00	255	L		0
+Eurus	OTAS	M4	4 x 25MJ	1	2,050	275	224.00	92	M		0
+Solano	OTAS	M4+	3 x 25MJ		5,000	605	210.00	102	L		1,261,300
+Skiron	OTAS	M6+	5 x 200MJ	3	14,500	2,800	149.00	975	XL		14,482,401
+Astraeus Hauler	OTAS	M7	4 x 1GJ	5	63,000	6,050	132.30	2,975	XL	5	0
+Aquilo	OTAS	M7m	3 x 2GJ	3	50,500	5,900	91.80	8,000	XL		38,206,712
+Sirokos	OTAS	M7m	3 x 1GJ	3	50,500	5,900	111.20	4,750	XL		0
+Auster Hauler	OTAS	M8	3 x 200MJ	2	10,500	2,500	104.90	1,250	XL		0
+Zephyrus	OTAS	TM	3 x 200MJ	2	2,200	1,200	140.00	1,275	XL	4	474,663
+Mistral	OTAS	TS	4 x 25MJ	4	850	600	130.00	4,000	XL		636,090
+Mistral Super Freighter	OTAS	TS	6 x 25MJ	2	850	600	78.00	15,000	XL		2,018,311
+Orbital Weapon Platform L	All races	M1	3 x 2GJ	6	165,000	10,500	0.00	9,000	XL	3	0
+Orbital Weapon Platform M	All races	M1	3 x 1GJ	4	140,000	7,000	0.00	6,000	XL		0
+Orbital Weapon Platform S	All races	M1	1 x 1GJ	4	120,000	6,000	0.00	5,000	XL		0
+Space Suit	All races				800		28.00				0
+Shark	Boron	M1	3 x 2GJ	6	47,800	9,400	92.90	10,000	ST	45	61,790,791
+Ray	Boron	M2	4 x 2GJ	6	248,800	14,200	57.40	11,000	ST		86,438,545
+Barracuda	Boron	M3	2 x 25MJ		3,400	570	180.00	208	M		2,211,155
+Barracuda Advanced	Boron	M3	3 x 25MJ		4,080	627	227.50	197	M		0
+Barracuda Prototype	Boron	M3	3 x 25MJ		5,600	750	190.00	208	L		0
+Barracuda Raider	Boron	M3	1 x 25MJ		3,400	627	228.60	187	M		2,864,863
+Barracuda Sentinel	Boron	M3	3 x 25MJ		3,400	627	147.60	187	M		2,894,386
+Barracuda Vanguard	Boron	M3	2 x 25MJ		4,080	627	198.00	197	M		2,580,859
+Skate	Boron	M3+	3 x 25MJ	2	7,800	1,160	156.00	305	M		5,984,203
+Skate Prototype	Boron	M3+	3 x 25MJ	2	7,800	1,000	180.00	275	M		0
+Mako	Boron	M4	2 x 5MJ		1,850	190	203.10	208	M		568,452
+Mako Enhanced	Boron	M4	3 x 5MJ		2,220	209	270.00	197	M		0
+Mako Raider	Boron	M4	1 x 5MJ		1,850	209	257.90	187	M		0
+Mako Sentinel	Boron	M4	3 x 5MJ		1,850	209	166.50	187	M		802,572
+Mako Vanguard	Boron	M4	2 x 5MJ		2,220	209	223.40	197	M		661,278
+Pike	Boron	M4+	1 x 25MJ		4,350	399	195.00	208	L		1,033,400
+Octopus	Boron	M5	2 x 1MJ		1,350	75	427.80	15	S		73,732
+Octopus Raider	Boron	M5	1 x 1MJ		1,350	82	543.40	13	S		108,914
+Octopus Sentinel	Boron	M5	3 x 1MJ		1,350	82	350.80	13	S		106,543
+Octopus Vanguard	Boron	M5	2 x 1MJ		1,620	82	470.60	14	S		81,325
+Hydra	Boron	M6	3 x 200MJ	1	7,000	2,850	147.60	1,500	XL		8,766,030
+Heavy Hydra	Boron	M6+	4 x 200MJ	2	13,500	3,250	138.00	875	L		25,382,467
+Thresher	Boron	M7	3 x 1GJ	5	50,500	5,900	111.20	4,750	XL		38,206,712
+Kraken	Boron	M7m	3 x 1GJ	4	50,500	14,200	83.90	8,500	XL		51,019,915
+Marlin Hauler	Boron	M8	4 x 25MJ	2	10,500	1,160	150.00	305	L		0
+Orca	Boron	TL	5 x 200MJ	4	15,300	3,800	110.80	50,000	ST	10	22,344,668
+Pleco	Boron	TM	1 x 200MJ	2	750	950	132.00	1,650	XL	4	462,558
+Angel	Boron	TP	4 x 25MJ	2	1,540	600	155.10	1,600	XL		2,174,887
+Manta	Boron	TP	2 x 25MJ		400	450	109.90	1,000	M		638,110
+Manta Hauler	Boron	TP	2 x 25MJ		400	450	120.90	1,150	L		1,449,925
+Dolphin	Boron	TS	3 x 25MJ		750	650	74.90	5,000	XL		510,514
+Dolphin Enhanced	Boron	TS	4 x 25MJ		750	660	102.60	5,500	XL		0
+Dolphin Hauler	Boron	TS	4 x 25MJ		750	650	59.90	10,000	XL		1,029,447
+Dolphin Super Freighter 1	Boron	TS	5 x 25MJ		750	715	57.70	9,250	XL		1,115,147
+Dolphin Super Freighter 2	Boron	TS	5 x 25MJ		750	715	53.90	14,000	XL		2,167,186
+Dolphin Tanker 1	Boron	TS	3 x 25MJ		750	650	74.90	5,000	XL		510,514
+Dolphin Tanker 2	Boron	TS	5 x 25MJ		750	650	48.70	9,500	XL		1,115,147
+Zeus	Paranid	M1	3 x 2GJ	6	58,500	8,200	82.00	8,000	ST	42	86,438,545
+Odysseus	Paranid	M2	4 x 2GJ	6	304,000	12,400	51.60	8,000	ST		104,924,277
+Perseus	Paranid	M3	3 x 25MJ	1	6,200	750	165.00	160	M		2,358,449
+Perseus Advanced	Paranid	M3	4 x 25MJ	1	6,200	825	209.00	160	M		0
+Perseus Raider	Paranid	M3	2 x 25MJ	1	6,200	825	209.50	144	M		3,042,992
+Perseus Sentinel	Paranid	M3	4 x 25MJ	1	6,200	825	135.30	144	M		2,785,826
+Perseus Vanguard	Paranid	M3	2 x 25MJ	1	6,200	825	181.50	152	M		2,657,870
+Medusa	Paranid	M3+	4 x 25MJ	2	8,333	1,300	143.00	320	M		6,419,669
+Medusa Prototype	Paranid	M3+	4 x 25MJ	2	8,750	1,300	149.60	320	M		0
+Pericles	Paranid	M4	3 x 5MJ		2,250	250	177.60	110	S		1,266,905
+Pericles Enhanced	Paranid	M4	4 x 5MJ		2,700	275	252.00	99	S		0
+Pericles Raider	Paranid	M4	2 x 5MJ		2,250	275	225.50	99	S		1,443,250
+Pericles Sentinel	Paranid	M4	4 x 5MJ		2,250	275	145.60	99	S		1,311,785
+Pericles Vanguard	Paranid	M4	3 x 5MJ		2,700	275	195.30	104	S		0
+Theseus	Paranid	M4+	2 x 25MJ		4,750	525	177.60	110	M		1,399,885
+Pegasus	Paranid	M5	3 x 1MJ		550	100	375.60	76	S		92,561
+Pegasus Raider	Paranid	M5	2 x 1MJ		550	110	477.10	68	S		116,508
+Pegasus Sentinel	Paranid	M5	4 x 1MJ		550	110	308.00	68	S		141,424
+Pegasus Vanguard	Paranid	M5	3 x 1MJ		660	110	413.20	72	S		107,088
+Hyperion Vanguard	Paranid	M6+	5 x 200MJ	4	25,000	2,500	169.10	3,333	XL	2	0
+Nemesis	Paranid	M6	3 x 200MJ	1	11,500	2,500	135.30	600	XL		9,304,199
+Heavy Nemesis	Paranid	M6+	4 x 200MJ	3	15,750	2,800	124.50	575	XL		14,377,642
+Agamemnon	Paranid	M7	6 x 1GJ	4	62,000	6,100	107.90	3,600	XL		0
+Deimos	Paranid	M7	6 x 1GJ	5	62,000	6,100	107.90	3,600	XL	6	38,237,259
+Ares	Paranid	M7m	2 x 2GJ	4	50,500	12,400	77.00	7,500	XL		50,675,750
+Hades	Paranid	M8	5 x 25MJ	2	1,100	1,200	137.50	790	L		5,442,574
+Hercules	Paranid	TL	6 x 200MJ	4	18,800	4,000	96.60	40,000	ST	9	19,879,848
+Helios	Paranid	TM	2 x 200MJ	2	950	1,100	121.00	1,550	XL	4	406,051
+Hermes	Paranid	TP	3 x 25MJ	1	500	600	105.00	1,000	L		689,346
+Hermes Hauler	Paranid	TP	3 x 25MJ	1	500	600	115.50	1,150	L		1,440,859
+Demeter	Paranid	TS	3 x 25MJ	1	950	600	110.00	3,800	XL		435,204
+Demeter Hauler	Paranid	TS	4 x 25MJ	1	950	600	88.00	7,600	XL		822,235
+Demeter Miner	Paranid	TS	3 x 25MJ	1	950	660	117.70	4,370	XL		594,271
+Demeter Prototype	Paranid	TS	3 x 25MJ	1	950	600	130.00	3,900	XL		0
+Demeter Super Freighter 1	Paranid	TS	5 x 25MJ	1	950	660	84.70	7,030	XL		907,935
+Demeter Super Freighter 2	Paranid	TS	5 x 25MJ	1	950	660	79.20	11,210	XL		1,639,833
+Demeter Tanker	Paranid	TS	3 x 25MJ	1	950	600	110.00	3,800	XL		435,204
+Raptor	Split	M1	2 x 2GJ	6	71,800	9,000	109.30	8,800	ST	65	80,276,604
+Python	Split	M2	3 x 2GJ	6	331,600	14,400	69.30	7,000	XL		92,600,480
+Mamba	Split	M3	2 x 25MJ		5,000	650	210.00	224	L		2,334,418
+Mamba Advanced	Split	M3	3 x 25MJ		6,000	715	265.00	224	L		0
+Mamba Raider	Split	M3	1 x 25MJ	1	5,000	715	266.70	201	L		3,049,715
+Mamba Sentinel	Split	M3	3 x 25MJ		5,000	715	172.20	201	L		0
+Mamba Vanguard	Split	M3	2 x 25MJ		6,000	715	231.00	212	L		2,734,956
+Chimera	Split	M3+	3 x 25MJ	2	8,750	1,125	182.00	300	L		6,226,367
+Chimera Enhanced	Split	M3+	4 x 25MJ	2	8,750	1,200	162.50	300	L		0
+Scorpion	Split	M4	1 x 5MJ		2,450	105	233.70	108	M		894,837
+Scorpion Prototype	Split	M4	1 x 5MJ		2,950	115	345.00	108	M		0
+Scorpion Raider	Split	M4	1 x 5MJ		2,450	115	296.90	81	M		0
+Scorpion Sentinel	Split	M4	2 x 5MJ		2,450	115	191.70	97	M		1,095,622
+Scorpion Vanguard	Split	M4	1 x 5MJ		2,940	115	257.10	102	M		973,137
+Asp	Split	M4+	1 x 25MJ		2,450	220	225.00	108	M		1,337,617
+Jaguar	Split	M5	2 x 1MJ		1,200	85	469.60	30	S		133,095
+Jaguar Enhanced	Split	M5	2 x 1MJ		1,440	100	602.00	40	S		0
+Jaguar Hauler	Split	M5	1 x 1MJ		1,200	85	493.10	40	S		210,336
+Jaguar Raider	Split	M5	1 x 1MJ		1,200	93	596.40	27	S		166,094
+Jaguar Vanguard	Split	M5	2 x 1MJ		1,440	93	516.50	28	S		144,315
+Dragon	Split	M6	2 x 200MJ	1	15,700	2,150	172.10	930	XL		7,689,771
+Heavy Dragon	Split	M6+	3 x 200MJ	1	17,525	2,150	160.90	675	XL		15,772,536
+Panther	Split	M7	4 x 1GJ	6	53,000	6,200	121.60	4,100	XL	32	36,461,288
+Tiger	Split	M7	4 x 1GJ	5	53,000	6,200	121.60	4,100	XL		36,461,288
+Cobra	Split	M7m	3 x 1GJ	3	50,500	14,400	97.90	7,000	XL		50,774,081
+Viper	Split	M8	4 x 25MJ	2	1,200	1,040	175.00	700	L		5,423,203
+Elephant	Split	TL	5 x 200MJ	4	27,300	4,300	131.90	34,000	ST	14	17,415,102
+Boa	Split	TM	1 x 200MJ	2	2,100	900	154.90	1,350	XL	4	450,448
+Iguana	Split	TP	2 x 25MJ	1	1,150	500	169.90	450	L		1,311,382
+Iguana Vanguard	Split	TP	2 x 25MJ	1	1,150	500	186.90	517	L		0
+Caiman	Split	TS	2 x 25MJ	1	2,100	500	124.90	3,500	XL		392,527
+Caiman Hauler	Split	TS	3 x 25MJ	1	2,100	500	99.90	7,000	XL		873,658
+Caiman Miner	Split	TS	3 x 25MJ	1	2,200	500	90.00	7,000	XL		1,818,871
+Caiman Super Freighter 1	Split	TS	4 x 25MJ	1	2,100	550	96.20	6,475	XL		959,358
+Caiman Super Freighter 2	Split	TS	4 x 25MJ	1	2,100	550	89.90	10,325	XL		2,665,721
+Caiman Tanker 1	Split	TS	2 x 25MJ	1	2,100	500	124.90	3,500	XL		392,527
+Caiman Tanker 2	Split	TS	4 x 25MJ	1	2,100	500	81.20	6,650	XL		959,358
+Condor	Teladi	M1	5 x 2GJ	6	53,200	7,600	64.50	12,000	ST	35	67,952,727
+Phoenix	Teladi	M2	5 x 2GJ	6	276,400	8,000	40.70	13,000	ST		69,283,911
+Falcon	Teladi	M3	4 x 25MJ		3,700	660	120.00	283	L		2,508,112
+Falcon Hauler	Teladi	M3	1 x 200MJ	1	3,700	660	132.00	353	XL		2,790,167
+Falcon Prototype	Teladi	M3	4 x 25MJ	1	4,440	726	132.00	353	L		0
+Falcon Sentinel	Teladi	M3	2 x 200MJ	1	3,700	727	107.90	254	L		0
+Falcon Vanguard	Teladi	M3	1 x 200MJ	1	4,440	726	98.30	268	L		3,072,853
+Kea	Teladi	M3+	5 x 25MJ	2	7,300	1,220	104.00	410	L		6,357,409
+Kea Enhanced	Teladi	M3+	5 x 25MJ	2	8,000	1,300	120.00	750	L		0
+Kea Enhanced (Special)	Teladi	M3+	5 x 25MJ	2	8,000	1,300	168.00	750	L		0
+Buzzard	Teladi	M4	4 x 5MJ		2,050	265	135.80	140	M		1,322,474
+Buzzard Hauler	Teladi	M4	3 x 5MJ		1,640	265	145.30	189	M		0
+Buzzard Sentinel	Teladi	M4	5 x 5MJ		2,050	291	111.40	126	M		1,387,371
+Buzzard Vanguard	Teladi	M4	4 x 5MJ		2,460	291	149.40	133	M		1,429,753
+Kite	Teladi	M4+	4 x 5MJ		2,050	265	135.80	140	M		1,809,548
+Kite Vanguard	Teladi	M4+	4 x 25MJ		 ? 546	612	140.40	133	L		0
+Harrier	Teladi	M5	1 x 5MJ		1,000	65	280.00	104	S		550,949
+Harrier Hauler	Teladi	M5	1 x 5MJ		1,000	65	245.00	130	S		245,614
+Harrier Sentinel	Teladi	M5	2 x 5MJ		1,000	71	227.50	93	S		0
+Harrier Vanguard	Teladi	M5	1 x 5MJ		1,200	71	300.00	98	S		255,063
+Kestrel	Teladi	M5	1 x 5MJ	1	1,500	130	605.50	55	M		224,611
+Kestrel Advanced	Teladi	M5	4 x 1MJ	1	1,400	135	622.80	50	M		0
+Osprey	Teladi	M6	4 x 200MJ	3	12,700	2,650	98.40	1,500	XL		15,223,732
+Heavy Osprey	Teladi	M6+	5 x 200MJ	3	14,100	2,900	92.00	1,050	XL		16,517,250
+Shrike	Teladi	M7	4 x 1GJ	5	49,000	5,800	96.00	7,000	XL	8	29,944,060
+Tern Sentinel	Teladi	M7	4 x 1GJ	5	49,000	5,800	96.00	16,500	XL		0
+Gannet	Teladi	M7m	3 x 2GJ	3	50,500	8,000	55.90	9,000	XL		50,272,580
+Peregrine	Teladi	M8	6 x 25MJ	2	900	1,056	100.00	800	L		5,469,216
+Albatross	Teladi	TL	6 x 200MJ	4	17,100	3,200	88.00	43,000	ST	7	27,274,154
+Pelican	Teladi	TM	3 x 200MJ	2	850	950	88.00	1,700	XL	4	470,629
+Toucan	Teladi	TP	3 x 25MJ	1	450	450	125.00	900	L		700,565
+Toucan Hauler	Teladi	TP	3 x 25MJ	1	450	450	137.50	1,035	L		0
+Toucan Prototype	Teladi	TP	4 x 25MJ	1	450	660	145.00	1,000	L		0
+Vulture	Teladi	TS	2 x 25MJ	1	850	300	79.90	4,500	XL		403,344
+Vulture Hauler	Teladi	TS	3 x 25MJ	1	850	300	63.90	9,000	XL		884,575
+Vulture Miner	Teladi	TS	2 x 25MJ	1	850	330	85.50	5,175	XL		589,292
+Vulture Prototype	Teladi	TS	4 x 25MJ	1	850	330	95.40	8,000	XL		0
+Vulture Super Freighter 1	Teladi	TS	4 x 25MJ	1	850	330	61.50	8,325	XL		979,275
+Vulture Super Freighter 2	Teladi	TS	4 x 25MJ	1	850	330	57.50	13,275	XL		1,930,860
+Vulture Tanker	Teladi	TS	2 x 25MJ	1	850	300	79.90	4,500	XL		403,344
+#deca	Terran	M1	6 x 2GJ	4	250,000	9,400	36.00	8,000	XL	50	0
+Tokyo	Terran	M1	5 x 2GJ	6	300,000	10,660	87.00	7,040	XL	50	68,033,931
+Osaka	Terran	M2	6 x 2GJ	6	450,000	18,720	54.00	10,000	XL		74,774,047
+#deca.cefa	Terran	M3	2 x 25MJ	1	3,000	780	214.60	234	L		1,034,066
+Scimitar	Terran	M3	5 x 25MJ		9,000	975	199.00	188	M		1,905,700
+Spitfyre	Terran	M3	3 x 25MJ	1	9,000	675	452.00	212	L		2,909,601
+Cutlass	Terran	M3+	6 x 25MJ	2	9,000	1,300	173.00	240	L		5,640,001
+#deca.deaf	Terran	M4	4 x 5MJ	1	1,650	350	256.00	114	M		465,803
+Sabre	Terran	M4	5 x 5MJ		3,000	500	275.00	90	M		391,246
+#deca.fade	Terran	M5	2 x 1MJ		800	70	480.90	62	S		46,226
+Rapier	Terran	M5	5 x 1MJ		1,000	130	458.50	100	S		61,802
+Katana	Terran	M6	5 x 200MJ	3	19,000	3,250	136.00	1,000	XL		6,490,494
+Springblossom	Terran	M6	3 x 200MJ	3	19,000	3,800	360.00	2,000	XL		6,054,548
+Yokohama	Terran	M7	5 x 1GJ	4	71,900	7,150	112.00	2,800	XL		34,950,881
+Claymore	Terran	M8	7 x 25MJ	2	1,500	1,560	138.00	850	L		5,279,520
+Atmospheric Lifter	Terran	TL	5 x 200MJ		17,100	3,300	112.50	80,000	ST	5	0
+Mobile Mining Base Ship	Terran	TL	5 x 200MJ	5	17,100	3,300	87.50	60,000	ST	5	28,579,548
+Scabbard	Terran	TP	5 x 25MJ	1	450	780	165.00	600	M		931,779
+Baldric	Terran	TS	5 x 25MJ	1	850	780	110.00	4,500	XL		811,070
+J	Xenon	M1	3 x 2GJ	6	42,500	9,400	89.40	8,000	XL	50	0
+K	Xenon	M2	4 x 2GJ	6	220,800	5,000	54.40	5,000	XL		0
+L	Xenon	M3	3 x 25MJ		3,000	780	165.00	234	L		0
+Unknown Object	Xenon	M3	4 x 200MJ		10,000	825	113.30	150	L		0
+LX	Xenon	M3+	4 x 25MJ	2	9,250	1,350	143.00	350	L		0
+M	Xenon	M4	4 x 5MJ		1,650	350	180.10	114	M		0
+N	Xenon	M5	2 x 1MJ		800	70	360.70	62	S		0
+P	Xenon	M6	2 x 200MJ	1	10,000	3,000	135.20	1,250	XL		0
+PX	Xenon	M6+	4 x 200MJ	3	15,250	3,450	126.50	1,150	XL		0
+Q	Xenon	M7	4 x 1GJ	3	49,000	5,800	121.80	5,850	XL		0
+Galleon	Pirate	M1	2 x 2GJ	6	53,200	6,560	83.20	8,360	XL	25	0
+Brigantine	Pirate	M2	3 x 2GJ	6	276,400	11,520	51.80	9,500	XL		0
+Blastclaw	Pirate	M3	3 x 25MJ	2	6,800	715	145.60	230	L		0
+Blastclaw Prototype	Pirate	M3	4 x 25MJ	2	6,800	715	159.60	650	L		0
+Pirate Falcon	Pirate	M3	2 x 25MJ		4,100	570	130.40	374	L		0
+Pirate Falcon Vanguard	Pirate	M3	3 x 25MJ		7,440	825	137.20	72	M		0
+Pirate Nova	Pirate	M3	3 x 25MJ	1	3,700	660	97.00	236	L		0
+Pirate Nova Raider	Pirate	M3	3 x 25MJ	1	5,600	825	145.30	212	L		0
+Eclipse Advanced	Pirate	M3+	4 x 25MJ	2	7,800	1,200	126.00	332	L		0
+Pirate Eclipse	Pirate	M3+	3 x 25MJ	2	7,800	800	140.00	285	L		0
+Pirate Kea	Pirate	M3+	4 x 25MJ	2	7,300	976	109.20	390	L		0
+Pirate Buster	Pirate	M4	2 x 5MJ		4,550	190	199.30	158	M		0
+Pirate Buster Hauler	Pirate	M4	4 x 5MJ		2,050	265	129.00	168	M		0
+Pirate Buzzard	Pirate	M4	3 x 5MJ		2,050	115	261.80	102	M		0
+Pirate Buzzard Vanguard	Pirate	M4	3 x 5MJ		2,700	275	245.50	104	S		0
+Pirate Scorpion	Pirate	M4	2 x 5MJ		2,450	105	258.00	102	M		0
+Pirate Elite	Pirate	M4+	1 x 25MJ	1	4,350	440	168.00	114	L		0
+Pirate Harrier	Pirate	M5	4 x 1MJ		1,100	150	375.60	90	S		0
+Pirate Harrier Hauler	Pirate	M5	1 x 5MJ		1,000	65	217.80	124	S		0
+Pirate Harrier Raider	Pirate	M5	2 x 1MJ		1,200	93	525.90	28	S		0
+Pirate Harrier Vanguard	Pirate	M5	4 x 1MJ		550	110	510.10	64	S		0
+Pirate Kestrel	Pirate	M5	1 x 5MJ	1	1,500	104	635.20	52	M		0
+Marauder Hauler	Pirate	M6	3 x 200MJ	3	10,500	2,500	104.90	1,250	XL		0
+Pirate Centaur	Pirate	M6	2 x 200MJ	3	10,500	2,000	126.00	1,190	XL		0
+Pirate Osprey	Pirate	M6	3 x 200MJ	3	12,700	2,120	103.00	1,425	XL		0
+Carrack	Pirate	M7	2 x 1GJ	4	63,000	4,400	106.20	3,325	XL		0
+Mobile Pirate Base Hauler	Pirate	TL	5 x 200MJ	4	17,100	3,300	87.50	60,000	ST		0
+Caravel	Pirate	TM	1 x 200MJ	2	850	850	115.00	1,425	XL	4	0
+Pirate Ship	Pirate	TS	1 x 25MJ	1	950	200	90.00	3,000	XL		0
+Hoshi	Yaki	M1	2 x 2GJ	6	51,000	8,200	112.00	8,800	XL	40	0
+Shuri	Yaki	M1	3 x 2GJ	6	53,200	8,200	79.10	8,800	XL	60	0
+Akuma	Yaki	M2	3 x 2GJ	6	280,000	14,400	67.20	9,000	XL		0
+Susanowa	Yaki	M3	2 x 25MJ		6,200	750	209.00	87	L		0
+Susanowa Hauler	Yaki	M3	2 x 25MJ		6,200	750	187.00	152	L		0
+Susanowa Prototype	Yaki	M3	3 x 25MJ		7,500	825	267.00	152	L		0
+Susanowa Raider	Yaki	M3	1 x 25MJ		7,440	825	264.00	120	L		0
+Tenjin	Yaki	M3+	3 x 25MJ	2	8,250	1,350	182.00	285	M		0
+Raijin	Yaki	M4	2 x 5MJ		2,250	250	195.30	126	M		0
+Raijin Raider	Yaki	M4	1 x 5MJ		2,250	275	225.50	99	M		0
+Raijin Sentinel	Yaki	M4	3 x 5MJ		2,250	275	145.60	99	M		0
+Tonbo	Yaki	M4+	1 x 25MJ		4,750	525	224.00	126	M		0
+Fujin	Yaki	M5	3 x 1MJ		550	100	413.20	87	M		0
+Fujin Raider	Yaki	M5	2 x 1MJ		550	110	477.10	68	M		0
+Fujin Sentinel	Yaki	M5	1 x 5MJ		550	110	477.10	68	M		0
+Washi Hauler	Yaki	M6	4 x 200MJ	3	14,500	2,800	117.00	975	XL		0
+Akurei Hauler	Yaki	M7	3 x 1GJ	5	63,000	5,500	101.70	3,500	XL	7	0
+Kariudo Hauler	Yaki	M7	3 x 1GJ	5	63,000	5,500	101.70	3,500	XL	7	0
+Senshi Hauler	Yaki	M7m	3 x 1GJ	3	50,500	14,400	69.90	8,000	XL		0
+Mobile Pirate Station	Yaki	TL	8 x 200MJ		10,000	1,000	180.00	44,000	ST	15	0
+Ryu	Yaki	TL	4 x 200MJ	4	18,000	3,300	120.00	36,000	ST	12	0
+Chokaro	Yaki	TM	2 x 200MJ	2	1,100	925	154.00	2,500	XL	3	0
+Kha'ak Carrier	Kha'ak	M1	4 x 2GJ	6	28,500	9,400	96.90	8,000	ST	25	0
+Kha'ak Guardian	Kha'ak	M1	2 x 1GJ	3	100,000	10,500	0.00	6,000	XL		0
+Hive Queen	Kha'ak	M1	9 x 2GJ	6	28,500	9,400	96.90	8,000	ST	25	0
+Kha'ak Destroyer	Kha'ak	M2	5 x 2GJ	6	345,600	7,100	62.40	7,000	ST		0
+Kha'ak Cluster	Kha'ak	M3	3 x 25MJ		10,000	300	57.00	95	M		0
+Kha'ak Fighter	Kha'ak	M3	3 x 25MJ		10,500	850	153.30	150	M		0
+Kha'ak Interceptor	Kha'ak	M4	2 x 5MJ		1,820	150	201.20	78	S		0
+Kha'ak Scout	Kha'ak	M5	3 x 1MJ		600	100	354.60	27	S		0
+Kha'ak Corvette	Kha'ak	M6	5 x 200MJ	2	17,500	2,350	128.10	1,050	L		0
+If the price is 0, the ship is not available for purchase.
+Navigation menu
+page discussion edit history
+create account log in
+navigation
+Main page
+Recent changes
+Random page
+Help
+To do list
+x3 terran conflict
+Ships
+Stations
+Sectors
+Races
+Missions
+Missiles
+Weapons
+Ranks
+Wares
+Asteroids
+Scripts & Mods
+links
+Wildstar trial
+MMO Server Status
+search
+    
+tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Powered by MediaWiki
+This page was last modified on 18 February 2014, at 03:58. This page has been accessed 148,534 times. Privacy policy About X3 Wiki Disclaimers
